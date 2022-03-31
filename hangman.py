@@ -6,7 +6,7 @@ from IPython import display
 
 def getword(): 
   rndword = '' 
-  x = os.scandir(path='/content/drive/MyDrive/game')
+  x = os.scandir(path='words')
   paths = []
   for i in x:
     if i.is_file and i.name.endswith('.txt'):

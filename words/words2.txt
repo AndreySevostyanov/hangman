@@ -2,3 +2,11 @@ car
 cat
 dog
 map
+lamp
+sea
+node
+hope
+tube
+ocean
+can
+home
